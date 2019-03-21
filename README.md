@@ -1,6 +1,7 @@
 # mrarchive
 病案归档管理系统
-病 案 归 档 管 理 系 统
+
+无纸化病案归档方案
 
 分享路径：https://share.weiyun.com/5tnvCWb
 编程语言:python3.7+pyqt5
